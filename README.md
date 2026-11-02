@@ -29,7 +29,7 @@
 
 | Platform | Link |
 |---|---|
-| 🎥 YouTube | [AhadProCoder](https://www.youtube.com/channel/UC-mKVVdMC9VSakW0rL9sZ4w) |
+| 🎥 YouTube | [AhadProCoder](https://www.youtube.com/@AhadProCoder) |
 | 📸 Instagram | [@ahadprocoder](https://www.instagram.com/ahadprocoder/) |
 | 📘 Facebook | [AhadProCoder](https://www.facebook.com/AhadProCoder/) |
 | 🎵 TikTok | [@ahadprocoderdev](https://www.tiktok.com/@ahadprocoderdev) |
