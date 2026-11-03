@@ -73,6 +73,11 @@
 <img src="https://streak-stats.demolab.com?user=AhadProCoder&theme=tokyonight&hide_border=true&background=0D1117" alt="streak"/>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhadProCoder/AhadProCoder/output/github-snake-dark.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/AhadProCoder/AhadProCoder/output/github-snake.svg">
+</picture>
+
 ## 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhadProCoder&theme=react-dark&hide_border=true&bg_color=0D1117&area=true" width="100%" alt="activity"/>
