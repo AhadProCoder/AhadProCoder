@@ -2,7 +2,7 @@
 
 <img src="assets/header.svg" width="100%" alt="Muhammad Ahad - Full-Stack Developer and Tech Creator"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;MERN+%7C+ASP.NET+Core+%7C+Flutter;Generative+AI+Enthusiast;Tech+Olympic+Season+2+Winner;Learn.+Code.+Build." alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;MERN+%7C+ASP.NET+Core+%7C+Flutter;Generative+AI+Enthusiast;Tech+Olympic+Season+2+Winner;Learn.+Code.+Build." alt="Typing animation"/>
 
 <br/><br/>
 
@@ -17,11 +17,17 @@
 
 <img src="https://komarev.com/ghpvc/?username=AhadProCoder&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views"/>
 
+<br/><br/>
+
+<img src="assets/highlights.svg" width="100%" alt="Full-Stack, Generative AI, Mobile Apps, IT Instructor"/>
+
 </div>
 
 <br/>
 
-<h2><img src="assets/icons/user-round.svg" width="26" height="26" align="top" alt=""/>&nbsp;About Me</h2>
+<img src="assets/sections/about.svg" width="100%" alt="About Me"/>
+
+<br/>
 
 <img src="assets/icons/code-xml.svg" width="20" height="20" align="top" alt=""/>&nbsp; Full-Stack Developer working with the **MERN stack, ASP.NET Core and Flutter**<br/>
 <img src="assets/icons/brain.svg" width="20" height="20" align="top" alt=""/>&nbsp; Building **AI-powered** web and mobile applications<br/>
@@ -32,7 +38,9 @@
 
 <br/>
 
-<h2><img src="assets/icons/wrench.svg" width="26" height="26" align="top" alt=""/>&nbsp;Tech Stack</h2>
+<img src="assets/sections/techstack.svg" width="100%" alt="Tech Stack"/>
+
+<br/>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nextjs,tailwind,bootstrap,nodejs,express,mongodb,cs,dotnet,py,flask,php,laravel,mysql,firebase,flutter,dart,kotlin,git,github,figma,postman&perline=9" alt="Tech stack"/>
@@ -40,7 +48,9 @@
 
 <br/>
 
-<h2><img src="assets/icons/clapperboard.svg" width="26" height="26" align="top" alt=""/>&nbsp;What I Create</h2>
+<img src="assets/sections/create.svg" width="100%" alt="What I Create"/>
+
+<br/>
 
 On **AhadProCoder** I share practical tutorials, coding projects, AI tools, web and mobile development, and real-world programming experiments.
 
@@ -53,7 +63,9 @@ On **AhadProCoder** I share practical tutorials, coding projects, AI tools, web 
 
 <br/>
 
-<h2><img src="assets/icons/share-2.svg" width="26" height="26" align="top" alt=""/>&nbsp;Find Me Everywhere</h2>
+<img src="assets/sections/find.svg" width="100%" alt="Find Me Everywhere"/>
+
+<br/>
 
 <div align="center">
 
@@ -70,7 +82,9 @@ On **AhadProCoder** I share practical tutorials, coding projects, AI tools, web 
 
 <br/>
 
-<h2><img src="assets/icons/rocket.svg" width="26" height="26" align="top" alt=""/>&nbsp;Featured Projects</h2>
+<img src="assets/sections/projects.svg" width="100%" alt="Featured Projects"/>
+
+<br/>
 
 <table>
 <tr><td width="50%" align="center"><a href="https://github.com/sidahad/NexusAI-Multimodal-Chatbot"><img src="assets/projects/nexusai.svg" width="100%" alt="NexusAI-Multimodal-Chatbot"/></a></td><td width="50%" align="center"><a href="https://github.com/sidahad/Gamaxy-Gaming-Platform"><img src="assets/projects/gamaxy.svg" width="100%" alt="Gamaxy-Gaming-Platform"/></a></td></tr>
@@ -95,7 +109,9 @@ More projects on my personal profile: [github.com/sidahad](https://github.com/si
 
 <br/>
 
-<h2><img src="assets/icons/activity.svg" width="26" height="26" align="top" alt=""/>&nbsp;Contribution Activity</h2>
+<img src="assets/sections/activity.svg" width="100%" alt="Contribution Activity"/>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhadProCoder/AhadProCoder/output/github-snake-dark.svg">
