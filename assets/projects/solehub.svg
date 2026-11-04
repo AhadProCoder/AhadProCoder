@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="170" viewBox="0 0 480 170" role="img" aria-label="SoleHub">
+  <rect x="0.5" y="0.5" width="479" height="169" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <g transform="translate(20,18) scale(0.75)" fill="none" stroke="#8b949e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 2v7.751a.25.25 0 00.407.195l2.28-1.834a.5.5 0 01.627 0l2.28 1.834A.25.25 0 0016 9.751V2" />
+  <path d="M4 19.5v-15A2.5 2.5 0 016.5 2H19a1 1 0 011 1v18a1 1 0 01-1 1H6.5a1 1 0 010-5H20" /></g>
+  <text x="46" y="32" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="600" fill="#58a6ff">SoleHub</text>
+  <text x="22" y="68" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#8b949e"><tspan x="22" dy="0">A modern, responsive e-commerce web application for</tspan><tspan x="22" dy="20">footwear and sneakers featuring dynamic product</tspan><tspan x="22" dy="20">showcases, interactive shopping cart, checkout...</tspan></text>
+  <circle cx="26" cy="144" r="6" fill="#e34c29"/>
+  <text x="40" y="149" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#c9d1d9">HTML</text>
+</svg>
