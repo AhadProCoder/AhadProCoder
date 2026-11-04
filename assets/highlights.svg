@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 120" width="1000" height="120" role="img" aria-label="Highlights">
+  <defs>
+    <linearGradient id="cb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a1426"/><stop offset="1" stop-color="#14183f"/></linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
+    <clipPath id="cc"><rect x="0.5" y="0.5" width="235" height="119" rx="14"/></clipPath>
+  </defs>
+  <g transform="translate(0,0)">
+    <rect x="0.5" y="0.5" width="235" height="119" rx="14" fill="url(#cb)" stroke="#1e3a5f"/>
+    <g clip-path="url(#cc)"><rect x="0" y="0" width="236" height="3" fill="url(#bar)"/></g>
+    <g transform="translate(20,22) scale(1.5)" fill="none" stroke="#22d3ee" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><animate attributeName="opacity" values="0.75;1;0.75" dur="4s" begin="0.0s" repeatCount="indefinite"/><path d="m18 16 4-4-4-4" />
+  <path d="m6 8-4 4 4 4" />
+  <path d="m14.5 4-5 16" /></g>
+    <text x="20" y="86" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700" fill="#ffffff">Full-Stack</text>
+    <text x="20" y="106" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#94a3b8">MERN, ASP.NET Core, Flutter</text>
+  </g>
+  <g transform="translate(255,0)">
+    <rect x="0.5" y="0.5" width="235" height="119" rx="14" fill="url(#cb)" stroke="#1e3a5f"/>
+    <g clip-path="url(#cc)"><rect x="0" y="0" width="236" height="3" fill="url(#bar)"/></g>
+    <g transform="translate(20,22) scale(1.5)" fill="none" stroke="#22d3ee" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><animate attributeName="opacity" values="0.75;1;0.75" dur="4s" begin="0.6s" repeatCount="indefinite"/><path d="M12 18V5" />
+  <path d="M15 13a4.17 4.17 0 01-3-4 4.17 4.17 0 01-3 4" />
+  <path d="M17.707 6.294A3 3 0 1012 5a3 3 0 10-5.707 1.294" />
+  <path d="M17.996 5.125a4 4 0 012.526 5.77" />
+  <path d="M18 18a4 4 0 002-7.465" />
+  <path d="M19.967 17.482a4 4 0 11-7.967.517 4 4 0 11-7.967-.517" />
+  <path d="M6 18a4 4 0 01-2-7.465" />
+  <path d="M6.004 5.125a4 4 0 00-2.526 5.77" /></g>
+    <text x="20" y="86" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700" fill="#ffffff">Generative AI</text>
+    <text x="20" y="106" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#94a3b8">LLMs, chatbots, multimodal</text>
+  </g>
+  <g transform="translate(510,0)">
+    <rect x="0.5" y="0.5" width="235" height="119" rx="14" fill="url(#cb)" stroke="#1e3a5f"/>
+    <g clip-path="url(#cc)"><rect x="0" y="0" width="236" height="3" fill="url(#bar)"/></g>
+    <g transform="translate(20,22) scale(1.5)" fill="none" stroke="#22d3ee" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><animate attributeName="opacity" values="0.75;1;0.75" dur="4s" begin="1.2s" repeatCount="indefinite"/><rect width="14" height="20" x="5" y="2" rx="2" ry="2" />
+  <path d="M12 18h.01" /></g>
+    <text x="20" y="86" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700" fill="#ffffff">Mobile Apps</text>
+    <text x="20" y="106" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#94a3b8">Flutter, Dart, Firebase, AR</text>
+  </g>
+  <g transform="translate(765,0)">
+    <rect x="0.5" y="0.5" width="235" height="119" rx="14" fill="url(#cb)" stroke="#1e3a5f"/>
+    <g clip-path="url(#cc)"><rect x="0" y="0" width="236" height="3" fill="url(#bar)"/></g>
+    <g transform="translate(20,22) scale(1.5)" fill="none" stroke="#22d3ee" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><animate attributeName="opacity" values="0.75;1;0.75" dur="4s" begin="1.7999999999999998s" repeatCount="indefinite"/><path d="M2 3h20" />
+  <path d="M21 3v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V3" />
+  <path d="m7 21 5-5 5 5" /></g>
+    <text x="20" y="86" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700" fill="#ffffff">IT Instructor</text>
+    <text x="20" y="106" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#94a3b8">Web dev and software eng.</text>
+  </g>
+</svg>
