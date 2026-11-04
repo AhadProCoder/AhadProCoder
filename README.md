@@ -1,91 +1,93 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=230&section=header&text=Muhammad%20Ahad&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AhadProCoder%20%7C%20Developer%20%26%20Content%20Creator&descSize=20&descAlignY=58" width="100%" alt="header"/>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+%7C+ASP.NET+Core+%7C+Flutter;Generative+AI+Enthusiast+%F0%9F%A4%96;Tech+Olympic+Winner+%F0%9F%8F%86;Creating+Tech+Content+for+the+Community" alt="Typing SVG"/>
+<img src="assets/header.svg" width="100%" alt="Muhammad Ahad - Full-Stack Developer and Tech Creator"/>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=AhadProCoder&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="views"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;MERN+%7C+ASP.NET+Core+%7C+Flutter;Generative+AI+Enthusiast;Tech+Olympic+Season+2+Winner;Learn.+Code.+Build." alt="Typing animation"/>
 
 <br/><br/>
 
-<a href="https://www.youtube.com/channel/UC-mKVVdMC9VSakW0rL9sZ4w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-<a href="https://www.instagram.com/ahadprocoder/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://www.facebook.com/AhadProCoder/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-<a href="https://www.tiktok.com/@ahadprocoderdev"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
-<a href="https://linkedin.com/in/ahadprocoder"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:ahadprocoder@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-<img align="right" width="320" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=A78BFA&vCenter=true&width=320&lines=const+ahad+%3D+%7B;++role%3A+%22Full+Stack+Dev%22%2C;++stack%3A+%5B%22MERN%22%2C+%22.NET%22%2C+%22Flutter%22%5D%2C;++ai%3A+true%2C;++coffee%3A+Infinity;%7D" alt="code"/>
-
-- 💻 Full Stack Developer: MERN, ASP.NET Core and Flutter
-- 🤖 Building AI-powered web and mobile apps
-- 🏆 **Tech Olympic Season 2 Winner** (Generative AI Innovator of the Year, 2025)
-- 🎓 Advanced Diploma in Software Engineering (Aptech), BS Computer Science (Ilma University)
-- 👨‍🏫 IT Instructor with experience teaching Web Development
-- 📍 Karachi, Pakistan
+<a href="https://www.youtube.com/channel/UC-mKVVdMC9VSakW0rL9sZ4w" title="YouTube"><img src="https://api.iconify.design/logos/youtube-icon.svg" width="46" height="46" alt="YouTube"/></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/ahadprocoder/" title="Instagram"><img src="https://api.iconify.design/skill-icons/instagram.svg" width="46" height="46" alt="Instagram"/></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/AhadProCoder/" title="Facebook"><img src="https://api.iconify.design/logos/facebook.svg" width="46" height="46" alt="Facebook"/></a>&nbsp;&nbsp;
+<a href="https://www.tiktok.com/@ahadprocoderdev" title="TikTok"><img src="https://api.iconify.design/logos/tiktok-icon.svg" width="46" height="46" alt="TikTok"/></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/ahadprocoder" title="LinkedIn"><img src="https://api.iconify.design/logos/linkedin-icon.svg" width="46" height="46" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="mailto:ahadprocoder@gmail.com" title="Email"><img src="https://api.iconify.design/lucide/mail?color=%23ea4335.svg" width="46" height="46" alt="Email"/></a>
 
 <br/>
 
-## 🛠 Tech Stack
+<img src="https://komarev.com/ghpvc/?username=AhadProCoder&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views"/>
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nextjs,tailwind,bootstrap,nodejs,express,mongodb,cs,dotnet,py,flask,php,laravel,mysql,firebase,flutter,dart,kotlin,git,github,figma,postman&perline=9" alt="skills"/>
 </div>
 
 <br/>
 
-## 🎬 Find Me Everywhere
+<h2><img src="https://api.iconify.design/lucide/user-round.svg?color=%2338bdf8" width="24" height="24" align="top" alt=""/>&nbsp;About Me</h2>
 
-<div align="center">
+<img src="https://api.iconify.design/lucide/code-xml.svg?color=%2338bdf8" width="20" height="20" align="top" alt=""/>&nbsp; Full-Stack Developer working with the **MERN stack, ASP.NET Core and Flutter**<br/>
+<img src="https://api.iconify.design/lucide/brain.svg?color=%2338bdf8" width="20" height="20" align="top" alt=""/>&nbsp; Building **AI-powered** web and mobile applications<br/>
+<img src="https://api.iconify.design/lucide/trophy.svg?color=%2338bdf8" width="20" height="20" align="top" alt=""/>&nbsp; **Tech Olympic Season 2 Winner**, Generative AI Innovator of the Year (2025)<br/>
+<img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2338bdf8" width="20" height="20" align="top" alt=""/>&nbsp; Advanced Diploma in Software Engineering (Aptech), BS Computer Science (Ilma University)<br/>
+<img src="https://api.iconify.design/lucide/presentation.svg?color=%2338bdf8" width="20" height="20" align="top" alt=""/>&nbsp; IT Instructor with experience teaching Web Development and Software Engineering<br/>
+<img src="https://api.iconify.design/lucide/map-pin.svg?color=%2338bdf8" width="20" height="20" align="top" alt=""/>&nbsp; Karachi, Pakistan
 
-| Platform | Link |
-|:---:|:---:|
-| 🎥 YouTube | [AhadProCoder](https://www.youtube.com/channel/UC-mKVVdMC9VSakW0rL9sZ4w) |
-| 📸 Instagram | [@ahadprocoder](https://www.instagram.com/ahadprocoder/) |
-| 📘 Facebook | [AhadProCoder](https://www.facebook.com/AhadProCoder/) |
-| 🎵 TikTok | [@ahadprocoderdev](https://www.tiktok.com/@ahadprocoderdev) |
-| 💼 LinkedIn | [ahadprocoder](https://linkedin.com/in/ahadprocoder) |
-| 🧑‍💻 Personal GitHub | [sidahad](https://github.com/sidahad) |
-
-</div>
-
-## 📂 Featured Projects
-
-- 📱 [AuraLens - AR E-Commerce App](https://github.com/sidahad/AuraLens-AR-Ecommerce-App) - Flutter and Firebase app that places products in your space with Augmented Reality
-- 🤖 [NexusAI Multimodal Chatbot](https://github.com/sidahad/NexusAI-Multimodal-Chatbot) - AI chatbot with text, image and voice support
-- 🎮 [Gamaxy Gaming Platform](https://github.com/sidahad/Gamaxy-Gaming-Platform) - ASP.NET Core gaming platform with payments and AI
-- 🛒 [AhadTimezone E-Commerce](https://github.com/sidahad/AhadTimezone-ECommerce) - ASP.NET Core store with admin dashboard
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AhadProCoder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhadProCoder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="langs"/>
 <br/>
-<img src="https://streak-stats.demolab.com?user=AhadProCoder&theme=tokyonight&hide_border=true&background=0D1117" alt="streak"/>
+
+<h2><img src="https://api.iconify.design/lucide/wrench.svg?color=%2338bdf8" width="24" height="24" align="top" alt=""/>&nbsp;Tech Stack</h2>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nextjs,tailwind,bootstrap,nodejs,express,mongodb,cs,dotnet,py,flask,php,laravel,mysql,firebase,flutter,dart,kotlin,git,github,figma,postman&perline=9" alt="Tech stack"/>
 </div>
+
+<br/>
+
+<h2><img src="https://api.iconify.design/lucide/clapperboard.svg?color=%2338bdf8" width="24" height="24" align="top" alt=""/>&nbsp;What I Create</h2>
+
+On **AhadProCoder** I share practical tutorials, coding projects, AI tools, web and mobile development, and real-world programming experiments.
+
+| | Content |
+|:---:|---|
+| <img src="https://api.iconify.design/lucide/pencil-ruler.svg?color=%2338bdf8" width="22" height="22" align="top" alt=""/> | **AI Drawing Assistant**, a neural-network demo that recognizes what you draw |
+| <img src="https://api.iconify.design/lucide/bot.svg?color=%2338bdf8" width="22" height="22" align="top" alt=""/> | **Personal JARVIS**, a voice assistant that opens apps, searches Google and YouTube, and takes screenshots on command |
+| <img src="https://api.iconify.design/lucide/network.svg?color=%2338bdf8" width="22" height="22" align="top" alt=""/> | **3D Particle Network**, an interactive visual built with JavaScript |
+| <img src="https://api.iconify.design/lucide/box.svg?color=%2338bdf8" width="22" height="22" align="top" alt=""/> | **3D Web Navigation** using Three.js, HTML and CSS |
+
+<br/>
+
+<h2><img src="https://api.iconify.design/lucide/share-2.svg?color=%2338bdf8" width="24" height="24" align="top" alt=""/>&nbsp;Find Me Everywhere</h2>
+
+<div align="center">
+
+| | Platform | Link |
+|:---:|:---:|:---:|
+| <img src="https://api.iconify.design/logos/youtube-icon.svg" width="22" height="22" align="top" alt=""/> | YouTube | [AhadProCoder](https://www.youtube.com/channel/UC-mKVVdMC9VSakW0rL9sZ4w) |
+| <img src="https://api.iconify.design/skill-icons/instagram.svg" width="22" height="22" align="top" alt=""/> | Instagram | [@ahadprocoder](https://www.instagram.com/ahadprocoder/) |
+| <img src="https://api.iconify.design/logos/facebook.svg" width="22" height="22" align="top" alt=""/> | Facebook | [AhadProCoder](https://www.facebook.com/AhadProCoder/) |
+| <img src="https://api.iconify.design/logos/tiktok-icon.svg" width="22" height="22" align="top" alt=""/> | TikTok | [@ahadprocoderdev](https://www.tiktok.com/@ahadprocoderdev) |
+| <img src="https://api.iconify.design/logos/linkedin-icon.svg" width="22" height="22" align="top" alt=""/> | LinkedIn | [ahadprocoder](https://linkedin.com/in/ahadprocoder) |
+| <img src="https://api.iconify.design/mdi/github?color=%2338bdf8.svg" width="22" height="22" align="top" alt=""/> | Personal GitHub | [sidahad](https://github.com/sidahad) |
+
+</div>
+
+<br/>
+
+<h2><img src="https://api.iconify.design/lucide/rocket.svg?color=%2338bdf8" width="24" height="24" align="top" alt=""/>&nbsp;Featured Projects</h2>
+
+<img src="https://api.iconify.design/lucide/smartphone.svg?color=%2338bdf8" width="20" height="20" align="top" alt=""/>&nbsp; [**AuraLens, AR E-Commerce App**](https://github.com/sidahad/AuraLens-AR-Ecommerce-App): Flutter and Firebase app that places products in your space using Augmented Reality<br/>
+<img src="https://api.iconify.design/lucide/bot.svg?color=%2338bdf8" width="20" height="20" align="top" alt=""/>&nbsp; [**NexusAI Multimodal Chatbot**](https://github.com/sidahad/NexusAI-Multimodal-Chatbot): AI chatbot with text, image and voice support<br/>
+<img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%2338bdf8" width="20" height="20" align="top" alt=""/>&nbsp; [**Gamaxy Gaming Platform**](https://github.com/sidahad/Gamaxy-Gaming-Platform): ASP.NET Core platform with payments and AI features<br/>
+<img src="https://api.iconify.design/lucide/shopping-cart.svg?color=%2338bdf8" width="20" height="20" align="top" alt=""/>&nbsp; [**AhadTimezone E-Commerce**](https://github.com/sidahad/AhadTimezone-ECommerce): ASP.NET Core store with admin dashboard
+
+More projects on my personal profile: [github.com/sidahad](https://github.com/sidahad)
+
+<br/>
+
+<h2><img src="https://api.iconify.design/lucide/activity.svg?color=%2338bdf8" width="24" height="24" align="top" alt=""/>&nbsp;Contribution Activity</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhadProCoder/AhadProCoder/output/github-snake-dark.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/AhadProCoder/AhadProCoder/output/github-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/AhadProCoder/AhadProCoder/output/github-snake.svg">
 </picture>
 
-## 📈 Contribution Activity
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhadProCoder&theme=react-dark&hide_border=true&bg_color=0D1117&area=true" width="100%" alt="activity"/>
-
-<div align="center">
-
-### ⭐ Follow me on social media and drop a star on my repos! ⭐
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer" width="100%" alt="footer"/>
+<img src="assets/footer.svg" width="100%" alt="Thanks for visiting"/>
